@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-xw)&w-xcocyz(px1x%$@w2pz=uixr!+gf#_*vcg-7s=!qqrp9a
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['radiant-lake-93974.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'glacial-wildwood-59170.herokuapp.com']
 
 
 # Application definition
